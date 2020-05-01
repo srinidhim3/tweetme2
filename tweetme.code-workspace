@@ -3,5 +3,8 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"python.pythonPath": "/home/srinidhimadhusudhan/.local/share/virtualenvs/tweetme2-Rm2S0uDL/bin/python"
+	}
 }
